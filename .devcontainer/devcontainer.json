@@ -1,5 +1,5 @@
 {
-    "name": "Ladybird",
+    "name": "Ladybird-cnmfs",
     "image": "mcr.microsoft.com/devcontainers/base:noble",
     // Features to add to the dev container. More info: https://containers.dev/implementors/features.
     "features": {
